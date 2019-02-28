@@ -33,6 +33,6 @@
   "kafkaZookeeperConnect": "{{$global.env.KAFKA_ZOOKEEPER_CONNECT}}",
   "kafkaZookeeperConnectionTimeoutMs": "{{$global.env.KAFKA_ZOOKEEPER_CONNECT_TIMEOUT_MS}}",
   "kafkaZookeeperPassword": "{{$global.env.KAFKA_ZOOKEEPER_PASSWORD}}",
-  "kafkaZookeeperUser": "{{$global.env.KAFKA_ZOOKEEPER_USER}}"
+  "kafkaZookeeperUser": "{{$global.env.KAFKA_ZOOKEEPER_USER}}",
   "kafkaSslEndpointIdentificationAlgorithm": "{{$global.env.KAFKA_SSL_ENDPOINT_IDENTIFICATION_ALGORITHM}}"
 }
